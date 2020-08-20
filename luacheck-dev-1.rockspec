@@ -1,7 +1,8 @@
 package = "luacheck"
 version = "dev-1"
 source = {
-   url = "git+https://github.com/mpeterv/luacheck.git"
+   url = "git+https://github.com/edubart/luacheck.git",
+   branch = "myrocks"
 }
 description = {
    summary = "A static analyzer and a linter for Lua",
